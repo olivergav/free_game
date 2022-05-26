@@ -24,4 +24,4 @@ yarn-error.log*
 
 #local
 .idea
-constants
+src/components/Constants
